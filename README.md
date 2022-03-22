@@ -1,2 +1,2 @@
 # mvp-tableView
-table view app witch API and clear MVP
+table view app with API and clear MVP
